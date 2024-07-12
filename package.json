@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "axios": "^0.27.2",
+    "bulma": "^0.9.4",
+    "cross-env": "^7.0.3",
+    "laravel-mix": "^6.0.43",
+    "sass": "^1.51.0",
+    "vue": "^3.2.33",
+    "vuex": "^4.0.2"
+  }
+}
